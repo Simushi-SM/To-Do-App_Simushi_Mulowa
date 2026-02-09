@@ -1,0 +1,6 @@
+Cats
+0
+Dragon
+1
+Monkey
+0
